@@ -1,6 +1,5 @@
-pip requirements
+streamlit
 pandas
 numpy
 scikit-learn
-streamlit==1.37.0
 joblib
