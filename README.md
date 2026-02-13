@@ -1,4 +1,4 @@
-﻿# Maternal Health AI Workflow 🩺
+﻿# Maternal Health Risk App - AI Workflow 🩺
 
 ## Overview  
 This project explores how Artificial Intelligence can be applied to predict **maternal health risks** based on clinical indicators such as blood pressure, blood sugar, age, temperature, and heart rate. The goal is to design a machine learning workflow that helps healthcare professionals identify high-risk cases early — ultimately supporting safer pregnancies and improved maternal outcomes.
@@ -69,7 +69,7 @@ Deployed and hosted with streamlit: [👩‍🍼Maternal Health Risk Prediction 
 
 ## Author  
 👩‍💻 *Juliet Asiedu*  
-AI Specialization Track — PLP Africa  
+Project sourced and developed from my AI Specialization Track — PLP Africa
 Focused on **Health Impact through AI Innovation**
 
 ---
