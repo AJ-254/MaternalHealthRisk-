@@ -80,7 +80,12 @@ if st.button("🔍 Predict Risk Level"):
 
 st.info("This AI tool is for research and educational purposes only and does not replace professional medical judgment.")
 
+
+
 # === Footer ===
+
+
+
 st.caption("AI-powered risk assessment tool for antenatal screening.")
 
 st.caption("Developed by **Juliet Asiedu - RM🩺**💡")
