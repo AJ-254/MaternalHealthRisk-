@@ -54,7 +54,7 @@ A reliable machine learning model that predicts maternal risk levels with high i
 ---
 
 ## Deployment
-Deployed and hosted with streamlit: [👩‍🍼Maternal Health Risk Prediction App]()
+Deployed and hosted with streamlit: [👩‍🍼Maternal Health Risk Prediction App](https://maternalhealthrisk.streamlit.app/)
 
 ---
 
@@ -70,6 +70,7 @@ Deployed and hosted with streamlit: [👩‍🍼Maternal Health Risk Prediction 
 ## Author  
 👩‍💻 *Juliet Asiedu*  
 Project sourced and developed from my AI Specialization Track — PLP Africa
+
 Focused on **Health Impact through AI Innovation**
 
 ---

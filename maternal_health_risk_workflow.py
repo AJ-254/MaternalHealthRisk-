@@ -7,7 +7,7 @@ from imblearn.over_sampling import SMOTE
 import joblib
 
 # === Step 1: Load Dataset ===
-data_path = "Maternal Health Risk Data Set.csv"
+data_path = "Maternal Health Risk Dataset.csv"
 df = pd.read_csv(data_path)
 
 print("Dataset shape:", df.shape)
